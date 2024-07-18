@@ -6,6 +6,21 @@
   height: 40vmin;
   pointer-events: none;
 }
+.count button
+{
+  padding: 10px;
+  font-weight: bold;
+  margin: 10px;
+}
+.count
+{
+  margin: auto;
+  background-color: gray;
+  padding: 50px;
+  border-radius: 20px ;
+  margin-top: 15%;
+  width: 500px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
